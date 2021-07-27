@@ -41,7 +41,7 @@ import java.util.List;
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
 
  */
-public class DFSTakeMessage {
+public class LeetCode_LCP07_Simple {
 
     
     int ways, n, k;
@@ -78,7 +78,7 @@ public class DFSTakeMessage {
     }
 
     public static void main(String[] args) {
-        DFSTakeMessage DFSTakeMessage = new DFSTakeMessage();
+        LeetCode_LCP07_Simple DFSTakeMessage = new LeetCode_LCP07_Simple();
         int[][] a = {{0,2}, {2,1},{3,4},{2,3},{1,4},{2,0},{0,4}};
         int i = DFSTakeMessage.numWays(5, a, 3);
         System.out.println(i);
