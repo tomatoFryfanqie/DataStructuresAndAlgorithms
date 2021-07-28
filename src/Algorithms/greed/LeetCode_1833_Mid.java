@@ -42,7 +42,7 @@ import java.util.Arrays;
  * 链接：https://leetcode-cn.com/problems/maximum-ice-cream-bars
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class LeetCode1833_Mid {
+public class LeetCode_1833_Mid {
 
     /*排序+贪心*/
     public int maxIceCream1(int[] costs, int coins) {

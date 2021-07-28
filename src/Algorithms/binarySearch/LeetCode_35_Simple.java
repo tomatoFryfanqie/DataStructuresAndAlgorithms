@@ -31,7 +31,7 @@ package Algorithms.binarySearch;
 链接：https://leetcode-cn.com/problems/search-insert-position
 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
 * */
-public class LeetCode35_Simple {
+public class LeetCode_35_Simple {
     public int searchInsert(int[] nums, int target) {
 
         int left = 0;
@@ -54,6 +54,6 @@ public class LeetCode35_Simple {
     }
 
     public static void main(String[] args) {
-        System.out.println(new LeetCode35_Simple().searchInsert(new int[]{1},0));
+        System.out.println(new LeetCode_35_Simple().searchInsert(new int[]{1},0));
     }
 }

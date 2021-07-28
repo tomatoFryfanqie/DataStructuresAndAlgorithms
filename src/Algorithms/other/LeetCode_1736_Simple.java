@@ -28,7 +28,7 @@ package Algorithms.other;
  * 链接：https://leetcode-cn.com/problems/latest-time-by-replacing-hidden-digits
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class LeetCode1736_Simple {
+public class LeetCode_1736_Simple {
 
     public String maximumTime(String time) {
         char[] chars = time.toCharArray();

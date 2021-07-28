@@ -31,7 +31,7 @@ package Algorithms.binarySearch;
 链接：https://leetcode-cn.com/problems/first-bad-version
 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
 * */
-public class LeetCode278_Simple {
+public class LeetCode_278_Simple {
     public int firstBadVersion(int n) {
         int left = 1;
         int right = n;

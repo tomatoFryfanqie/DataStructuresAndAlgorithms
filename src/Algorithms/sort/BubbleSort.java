@@ -5,6 +5,7 @@ package Algorithms.sort;
  */
 public class BubbleSort {
 
+    //冒泡
     public static void bubbleSort(int[] arr){
 
         for (int i = 0; i < arr.length; i++) {
