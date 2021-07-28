@@ -1,4 +1,4 @@
-package Algorithms.Sort;
+package Algorithms.sort;
 
 /**
  * @author lzh

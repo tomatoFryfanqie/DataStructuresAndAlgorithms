@@ -1,6 +1,4 @@
-package Algorithms.Sort;
-
-import java.util.concurrent.ThreadLocalRandom;
+package Algorithms.sort;
 
 /**
  * @author lzh
