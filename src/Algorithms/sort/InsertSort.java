@@ -14,7 +14,7 @@ public class InsertSort {
         for (int i = 1; i < ints.length; i++) {
 
             if(ints[i] < ints[i-1]){
-
+                //保存此数的索引和值
                 int j = i;
                 int temp = ints[i];
 
@@ -23,7 +23,6 @@ public class InsertSort {
                     if (j==0){
                         break;
                     }
-
                     if(temp<ints[j-1]){
 
                         ints[j] = ints[j - 1];
